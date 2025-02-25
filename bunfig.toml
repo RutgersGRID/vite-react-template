@@ -1,0 +1,22 @@
+# Bun configuration file
+
+[install]
+# Enable exact versioning
+exact = true 
+
+# Use the .bun lockfile format
+lockfile = true
+
+# Install optional dependencies
+optional = false
+
+[test]
+# Configure test coverage
+coverage = true
+
+[dev]
+# Set default port for bun run dev
+port = 3000
+
+# Enable fallbacks
+fallback = true

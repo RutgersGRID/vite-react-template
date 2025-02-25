@@ -1,0 +1,6 @@
+# This file tells GitHub this is a template repository
+template:
+  name: RutgersGRID Vite React Template
+  description: A modern React template with Vite, TypeScript, and Tailwind CSS
+  creator: RutgersGRID
+  private: false
